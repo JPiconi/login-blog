@@ -55,4 +55,6 @@
 _Instrutor de Formação Profissional_
 _SENAI 'Celso Charuri' - Sumaré / SP - CFP 5.12_
 
-##Teste de commit
+## Teste de commit
+
+#### Cópia de arquivo com git checkout.
